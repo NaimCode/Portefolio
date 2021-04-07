@@ -107,7 +107,7 @@ class MyProjects extends StatelessWidget {
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(20),
                           ),
-                          child: Text('Visit'),
+                          child: Text('Visiter'),
                         ),
                       ],
                     ),

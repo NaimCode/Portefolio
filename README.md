@@ -1,11 +1,9 @@
-# Flutter Web Portfolio
+# Portfolio NaimDev
 
-My responsive portfolio using Flutter web.
-
-<img src="https://github.com/GeekAbdelouahed/flutter-web-portfolio/raw/master/screenshots/screenshot.png"/>
+mon porteFolio responsif.
 
 # Desktop
-<img src="https://github.com/GeekAbdelouahed/flutter-web-portfolio/raw/master/imageGit/1.png"/>
+<img src="screenshots/1w.jpeg"/>
 
 # Mobile
-<img src="https://github.com/GeekAbdelouahed/flutter-web-portfolio/raw/master/screenshots/mobile-screenshot.png"/>
+<img src="screenshots/m.jpeg"/>

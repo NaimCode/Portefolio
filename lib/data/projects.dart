@@ -28,8 +28,7 @@ List<Project> PROJECTS = [
     name: 'Tchadia',
     description: 'Une application de streaming musical',
     image: 'images/projects/tchadia.png',
-    url:
-        'https://play.google.com/store/apps/details?id=dz.topfood.top_food_client',
+    url: 'https://github.com/NaimCode/Tchadia_Musiques_App',
     skills: [
       'Dart',
       'Flutter',
@@ -44,7 +43,7 @@ List<Project> PROJECTS = [
     description:
         "Bousta est la version ameliorée de 'Les Recettes de Bousta', destinée aux adultes avec plus de fonctionnalités. De plus elle est multiplateforme car elle a été recodée de zéro avec cette fois-ci Flutter et Firebase",
     image: 'images/projects/bousta.jpeg',
-    url: 'https://play.google.com/store/apps/details?id=com.bousta.naimdev',
+    url: 'https://github.com/NaimCode/Bousta',
     skills: [
       'Dart',
       'Firebase',
@@ -59,7 +58,7 @@ List<Project> PROJECTS = [
     description:
         'Fluse est une plateforme en ligne qui a pour but principal d’aider les étudiants en leur facilitant l’accès aux cours, aux informations sur les établissements marocains et la mise en relation avec d’autres étudiants à l’aide des forums. Développée avec Flutter web et Firebase comme backend',
     image: 'images/projects/fluse.png',
-    url: 'https://hostingaaa.web.app/#/',
+    url: 'https://github.com/NaimCode/Fluse',
     skills: [
       'Dart',
       'Flutter web',
