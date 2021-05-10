@@ -13,7 +13,7 @@ List<Project> PROJECTS = [
   Project(
     name: 'Les recettes de Bousta',
     description:
-        "Créée pour un chef, ‘Les Recette de Bousta’ est une application android de recettes simple et rapide destinée aux débutants. Je l’ai développée avec Android Studio en utilisant les langages Java et SQL.",
+        "Créée pour un chef, ‘ Les Recette de Bousta ’ est une application android de recettes simple et rapide destinée aux débutants. Je l’ai développée avec Android Studio en utilisant les langages Java et SQL.",
     image: 'images/projects/rb.jpg',
     url: 'https://github.com/NaimCode/Cooking-App',
     skills: [
