@@ -28,7 +28,7 @@ class MyProjects extends StatelessWidget {
         color: AppColors.greyLight,
         padding: EdgeInsets.symmetric(
           horizontal: MediaQuery.of(context).size.width * .15,
-          vertical: 50,
+          vertical: 10,
         ),
         child: Column(
           children: [
@@ -63,6 +63,7 @@ class MyProjects extends StatelessWidget {
                 children: [
                   SizedBox(
                     height: MediaQuery.of(context).size.width * .3,
+                    width: MediaQuery.of(context).size.width * 0.4,
                     child: Image.asset(project.image),
                   ),
                   SizedBox(width: MediaQuery.of(context).size.width * .075),
@@ -107,7 +108,7 @@ class MyProjects extends StatelessWidget {
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(20),
                           ),
-                          child: Text('Visiter'),
+                          child: Text('Code Source'),
                         ),
                       ],
                     ),
@@ -171,7 +172,7 @@ class MyProjects extends StatelessWidget {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(20),
                 ),
-                child: Text('Visit'),
+                child: Text('Code Source'),
               ),
               Divider(
                 color: AppColors.black.withOpacity(.1),

@@ -166,14 +166,7 @@ class About extends StatelessWidget {
               //   child: Text('HIRE ME NOW'),
               // ),
               // const SizedBox(height: 20),
-              RaisedButton(
-                onPressed: _downloadCV,
-                color: AppColors.black,
-                textColor: Colors.white,
-                padding:
-                    const EdgeInsets.symmetric(horizontal: 30, vertical: 20),
-                child: Text('Résumé de mon parcours'),
-              ),
+
               const SizedBox(height: 50),
               Text('COMPETENCE', style: AppStyles.title),
               Container(width: 75, height: 2, color: AppColors.yellow),

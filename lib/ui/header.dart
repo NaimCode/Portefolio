@@ -1,5 +1,6 @@
+import 'package:NaimDev/ui/responsive_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_web_portfolio/ui/responsive_widget.dart';
+
 import 'package:url_launcher/url_launcher.dart';
 
 import '../config/constants.dart';
@@ -104,7 +105,10 @@ class Header extends StatelessWidget {
                   padding:
                       const EdgeInsets.symmetric(horizontal: 30, vertical: 20),
                   onPressed: _downloadCV,
-                  child: Text('Télécharger mon CV'),
+                  child: Text(
+                    'Télécharger mon CV',
+                    style: TextStyle(fontSize: 20),
+                  ),
                 ),
                 const SizedBox(height: 100),
               ],

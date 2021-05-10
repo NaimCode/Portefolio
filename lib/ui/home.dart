@@ -1,7 +1,8 @@
 import 'dart:async';
 
+import 'package:NaimDev/ui/responsive_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_web_portfolio/ui/responsive_widget.dart';
+
 import 'package:url_launcher/url_launcher.dart';
 
 import 'about.dart';
@@ -210,7 +211,7 @@ class _HomeState extends State<Home> {
                 ListTile(
                   onTap: _scrollToRecentProjects,
                   title: Text(
-                    'Portrefolio',
+                    'Portfolio',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),

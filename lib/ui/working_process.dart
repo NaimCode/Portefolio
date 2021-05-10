@@ -1,5 +1,5 @@
+import 'package:NaimDev/ui/responsive_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_web_portfolio/ui/responsive_widget.dart';
 
 import '../config/styles.dart';
 import '../config/colors.dart';

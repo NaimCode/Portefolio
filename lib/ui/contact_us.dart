@@ -1,7 +1,8 @@
 import 'dart:io';
 
+import 'package:NaimDev/ui/icon.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_web_portfolio/ui/icon.dart';
+
 import 'package:mailto/mailto.dart';
 
 import 'responsive_widget.dart';
